@@ -1,0 +1,6 @@
+[run]
+omit =
+    test_*
+    /usr/local/bin/python3.*/*
+    tests/*
+    /usr/local/lib*

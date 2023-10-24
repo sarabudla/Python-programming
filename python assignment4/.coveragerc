@@ -1,0 +1,4 @@
+[run]
+omit =
+    tests/*
+    /Users/vishnu/opt/anaconda3/envs/Assignment-4/bin/python
