@@ -1,8 +1,3 @@
-# Author
-- Vishnu Priya Nuthanapati
-
-# Date created
-- 11/17/2022
 
 # Overview
 
